@@ -61,13 +61,10 @@ Screenshots
 3. Setting page
 ![Chat](./Screenshot%202025-12-02%20143036.png)
 
-4. Settings
-![Users](./Screenshot%202025-12-02%20143046.png)
-
-5. Editing profile
+4. Editing profile
 ![Settings](./Screenshot%202025-12-02%20143120.png)
 
-6. Chat Screen
+5. Chat Screen
 ![Folder](./Screenshot%202025-12-02%20143144.png)
 
 
