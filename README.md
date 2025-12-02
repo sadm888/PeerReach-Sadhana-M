@@ -52,22 +52,22 @@ Join our community of developers creating universal apps.
 
 Screenshots
 
-1. Welcome Screen
+1. Nearby users
 ![Welcome](./Screenshot%202025-12-02%20143006.png)
 
 2. Home Screen
 ![Home](./Screenshot%202025-12-02%20143025.png)
 
-3. Chat Screen
+3. Setting page
 ![Chat](./Screenshot%202025-12-02%20143036.png)
 
-4. Users Screen
+4. Settings
 ![Users](./Screenshot%202025-12-02%20143046.png)
 
-5. Settings Screen
+5. Editing profile
 ![Settings](./Screenshot%202025-12-02%20143120.png)
 
-6. Project Folder
+6. Chat Screen
 ![Folder](./Screenshot%202025-12-02%20143144.png)
 
 
